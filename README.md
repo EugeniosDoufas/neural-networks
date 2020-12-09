@@ -1,2 +1,2 @@
 # neural-networks
-neural networks ntua
+exercises neural-networks 9th semester ntua
